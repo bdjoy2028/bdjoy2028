@@ -11,9 +11,9 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 
 <div align="center">
 
- 🔭 I’m currently working on ** Cybersecurity **
+ 🔭 I’m currently working on ** A Chat App **
 
- 🌱 I’m currently learning ** Lunis, React, Redis ** 
+ 🌱 I’m currently learning ** Python, React, Redis ** 
 
  💬 Ask me about ** Node.js, Javascript, Css, ... or anything else you like
 
